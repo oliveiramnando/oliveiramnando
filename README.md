@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Fernando and I am an aspiring SWE based in New York
+## Hi there 👋 I'm Fernando, an aspiring SWE based in New York
 
 <!--
 **oliveiramnando/oliveiramnando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
