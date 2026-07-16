@@ -4,27 +4,6 @@ I'm a backend-focused software engineer based in New York.
 
 I enjoy building APIs, backend systems, developer tools, and data-driven applications. My main interests are backend engineering, distributed systems, database design, financial technology, and systems programming.
 
-## Projects
-
-### [LeetNode](https://leetnode-nine.vercel.app/)
-
-A social platform for programmers to track LeetCode progress, share submissions, maintain streaks, and compete with friends.
-
-**Tech:** Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS
-
-### FinWiz
-
-A financial management platform for analyzing personal finances, investments, portfolio performance, and risk.
-
-**Highlights:**
-
-- Plaid financial account integration
-- Monte Carlo portfolio simulations
-- VaR and CVaR calculations
-- AES-256-GCM encryption
-- Dockerized services
-
-**Tech:** Node.js, Express, Python, FastAPI, MongoDB, Docker
 
 ## Skills
 
