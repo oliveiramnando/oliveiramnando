@@ -1,79 +1,53 @@
-# Fernando Oliveira
+# Hey, I'm Fernando 👋
 
-```text
-fernando@github:~$ whoami
+I'm a backend-focused software engineer based in New York.
 
-Backend-focused software engineer based in New York.
+I enjoy building APIs, backend systems, developer tools, and data-driven applications. My main interests are backend engineering, distributed systems, database design, financial technology, and systems programming.
 
-I build backend systems, APIs, developer tools, and data-driven applications.
-```
+## Projects
 
-## `~/projects`
-
-### `leetnode/`
+### [LeetNode](https://leetnode-nine.vercel.app/)
 
 A social platform for programmers to track LeetCode progress, share submissions, maintain streaks, and compete with friends.
 
-```text
-stack: Next.js · TypeScript · Node.js · MongoDB · Tailwind CSS
-```
+**Tech:** Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS
 
-[launch LeetNode](https://leetnode-nine.vercel.app/)
+### FinWiz
 
-### `finwiz/`
+A financial management platform for analyzing personal finances, investments, portfolio performance, and risk.
 
-A financial platform for managing account data, analyzing investments, and simulating portfolio risk.
+**Highlights:**
 
-```text
-features:
-  - Plaid financial integrations
-  - Monte Carlo portfolio simulations
-  - VaR and CVaR calculations
-  - AES-256-GCM encryption
-  - Dockerized services
+- Plaid financial account integration
+- Monte Carlo portfolio simulations
+- VaR and CVaR calculations
+- AES-256-GCM encryption
+- Dockerized services
 
-stack: Node.js · Express · Python · FastAPI · MongoDB · Docker
-```
+**Tech:** Node.js, Express, Python, FastAPI, MongoDB, Docker
 
-### `distributed-task-queue/`
+## Skills
 
-A durable background job-processing system built around reliable execution and failure recovery.
+**Languages:** TypeScript, JavaScript, Python, C#, C++, Java, SQL
 
-```text
-features:
-  - retries and exponential backoff
-  - scheduled and prioritized jobs
-  - idempotent processing
-  - dead-letter queue handling
-  - database-backed worker coordination
+**Backend:** Node.js, Express, FastAPI, .NET, REST APIs
 
-stack: C# · .NET · SQL Server
-```
+**Frontend:** Next.js, React, Tailwind CSS
 
-## `~/skills`
+**Databases:** MongoDB, SQL Server, PostgreSQL
 
-```text
-languages       TypeScript, JavaScript, Python, C#, C++, Java, SQL
-backend         Node.js, Express, FastAPI, .NET, REST APIs
-frontend        Next.js, React, Tailwind CSS
-databases       MongoDB, SQL Server, PostgreSQL
-infrastructure  Docker, Git, Linux
-```
+**Tools:** Docker, Git, Linux
 
-## `~/currently-learning`
+## Currently Learning
 
-```text
-C# and .NET
-distributed systems
-database concurrency and performance
-modern C++
-quantitative finance
-```
+- C# and .NET backend development
+- Distributed systems
+- Database concurrency and performance
+- Modern C++
+- Quantitative finance
 
-## `~/contact`
+## Connect
 
-[linkedin](https://www.linkedin.com/in/folivei2/) · [email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/folivei2/)
 
-```text
-status: open to backend, full-stack, and software engineering opportunities
-```
+I'm currently open to backend, full-stack, and software engineering opportunities.
