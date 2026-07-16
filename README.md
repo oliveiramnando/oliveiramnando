@@ -10,7 +10,7 @@ My experience spans **Node.js, TypeScript, Python, C#, .NET, Next.js, MongoDB, S
 
 ## 🚀 What I'm Building
 
-### [LeetNode](https://github.com/oliveiramnando)
+### [LeetNode]([https://github.com/oliveiramnando](https://leetnode-nine.vercel.app/))
 
 A social platform for programmers to track LeetCode progress, share submissions, build streaks with friends, and compete through leaderboards.
 
