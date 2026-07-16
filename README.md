@@ -14,10 +14,12 @@ My experience spans **Node.js, TypeScript, Python, C#, .NET, Next.js, MongoDB, S
 
 A social platform for programmers to track LeetCode progress, share submissions, build streaks with friends, and compete through leaderboards.
 
-* Built with **Next.js, TypeScript, Node.js, MongoDB, and Tailwind CSS**
-* Implemented GitHub authentication and LeetCode account integration
-* Designed submission feeds, friend systems, streak tracking, profiles, and leaderboards
-* Deployed as a full-stack production application
+[![Live App](https://img.shields.io/badge/Live_App-Visit_LeetNode-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://leetnode-nine.vercel.app/)
+
+- Built with **Next.js, TypeScript, Node.js, MongoDB, and Tailwind CSS**
+- Implemented GitHub authentication and LeetCode account integration
+- Designed submission feeds, friend systems, streak tracking, profiles, and leaderboards
+- Deployed as a full-stack production application
 
 ### FinWiz
 
@@ -95,7 +97,7 @@ A financial management platform that helps users understand their finances, inve
 
 I'm currently looking for **backend, full-stack, and software engineering opportunities** where I can contribute to meaningful products, solve challenging technical problems, and continue growing as an engineer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/folivei2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folivei2/)
 
 ---
 
