@@ -96,7 +96,6 @@ A financial management platform that helps users understand their finances, inve
 I'm currently looking for **backend, full-stack, and software engineering opportunities** where I can contribute to meaningful products, solve challenging technical problems, and continue growing as an engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_ACTUAL_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_ACTUAL_EMAIL)
 
 ---
 
