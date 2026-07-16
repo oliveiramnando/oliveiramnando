@@ -73,36 +73,30 @@ A financial management platform that helps users understand their finances, inve
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=oliveiramnando&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="Fernando's GitHub statistics"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiramnando&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Fernando's most-used programming languages"
-  />
-</p>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiramnando&theme=tokyonight&hide_border=true"
+  alt="Fernando's GitHub contribution streak"
+/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=oliveiramnando&theme=tokyonight&hide_border=true"
-    alt="Fernando's GitHub contribution streak"
-  />
-</p>
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oliveiramnando&theme=tokyonight"
+  alt="Fernando's GitHub profile summary"
+/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm currently interested in **backend, full-stack, and software engineering opportunities** where I can work on meaningful products and challenging technical problems.
+I'm currently looking for **backend, full-stack, and software engineering opportunities** where I can contribute to meaningful products, solve challenging technical problems, and continue growing as an engineer.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_ACTUAL_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_ACTUAL_EMAIL)
 
 ---
 
