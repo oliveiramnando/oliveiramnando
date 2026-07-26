@@ -6,9 +6,9 @@ I enjoy building APIs, backend systems, developer tools, and data-driven applica
 
 ## Tech Stack
 
-- **Languages:** C#, Python, JavaScript, TypeScript, C++, Java
-- **Backend:** .NET, ASP.NET Core, Node.js, Express.js, FastAPI
-- **Databases:** SQL Server, MySQL, MongoDB
+- **Languages:** JavaScript, TypeScript, C#, Python, C++, Java
+- **Backend:** Node.js, Express.js, .NET, ASP.NET Core, FastAPI
+- **Databases:** MongoDB, SQL Server, MySQL
 - **Frontend:** React, Next.js
 - **Tools:** Git, Docker, GitHub Actions, Linux
 
