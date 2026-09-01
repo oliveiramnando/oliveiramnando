@@ -6,31 +6,11 @@ I enjoy building APIs, backend systems, developer tools, and data-driven applica
 
 ## Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C#, Python, C++, Java
-- **Backend:** Node.js, Express.js, .NET, ASP.NET Core, FastAPI
-- **Databases:** MongoDB, SQL Server, MySQL
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Backend:** Node.js, Express.js, FastAPI
+- **Databases:** MongoDB
 - **Frontend:** React, Next.js
-- **Tools:** Git, Docker, GitHub Actions, Linux
-
-## Featured Projects
-
-### LeetNode
-
-A full-stack LeetCode analytics and social platform featuring GitHub authentication, submission tracking, performance analytics, recommendations, comments, and friend streaks.
-
-**Built with:** Next.js, TypeScript, Express.js, MongoDB, Docker
-
-### FinWiz
-
-A containerized financial technology application featuring account aggregation, encrypted financial data, subscription payments, and portfolio simulations.
-
-**Built with:** Node.js, FastAPI, MongoDB, Docker, Plaid, Stripe
-
-## Currently Building
-
-* Backend applications with C# and ASP.NET Core
-* A distributed job-processing system using .NET and SQL Server
-* A deeper understanding of distributed systems, concurrency, and database transactions
+- **Tools:** Git, Docker, Linux
 
 ## Connect
 
