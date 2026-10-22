@@ -15,5 +15,3 @@ I enjoy building APIs, backend systems, developer tools, and data-driven applica
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/folivei2/)
-
-I'm currently open to backend, full-stack, and general software engineering opportunities.
