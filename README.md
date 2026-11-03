@@ -1,5 +1,7 @@
 # Hey, I'm Fernando 👋
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 I'm a software engineer based in New York.
 
 I enjoy building APIs, backend systems, developer tools, and data-driven applications. My main interests include backend engineering, distributed systems, database design, financial technology, and systems programming.
