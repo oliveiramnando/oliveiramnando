@@ -1,6 +1,6 @@
 # Hey, I'm Fernando 👋
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" align="right" width="256" alt="My koi" />
 
 I'm a software engineer based in New York.
 
