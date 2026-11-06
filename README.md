@@ -8,9 +8,9 @@ I enjoy building APIs, backend systems, developer tools, and data-driven applica
 
 ## Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, C++
+- **Languages:** Python, C++, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, FastAPI
-- **Databases:** MongoDB
+- **Databases:** MongoDB, SQL Server
 - **Frontend:** React, Next.js
 - **Tools:** Git, Docker, Linux
 
