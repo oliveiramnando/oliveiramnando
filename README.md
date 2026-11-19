@@ -12,7 +12,7 @@ Backend and systems engineer based in New York. I build APIs, networked services
 
 ## Currently
 
-Adding multi-user rooms and an event-loop server to tcp-chat.
+Adding multi-user rooms and an event-loop server to Tango.
 
 ## Tech
 
