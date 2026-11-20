@@ -33,6 +33,49 @@ jobs:
         working-directory: .card-generator
         run: npm ci --omit=dev --ignore-scripts
 
+      - name: Patch generator bugs
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          file = Path(".card-generator/src/fetchers/top-languages.ts")
+          source = file.read_text()
+
+          replacements = [
+              (
+                  "              size\n              languages(",
+                  "              size: diskUsage\n              languages("
+              ),
+              (
+                  "  let repoCount = 0;\n",
+                  ""
+              ),
+              (
+                  "        repoCount += 1;\n"
+                  "        tallies[name] = { ...existing, count: repoCount };",
+                  "        existing.count += 1;"
+              ),
+              (
+                  "        repoCount = 1;\n",
+                  ""
+              ),
+              (
+                  "          count: repoCount,",
+                  "          count: 1,"
+              ),
+          ]
+
+          for old, new in replacements:
+              if source.count(old) != 1:
+                  raise RuntimeError(
+                      f"Upstream source changed: {old!r}"
+                  )
+              source = source.replace(old, new, 1)
+
+          file.write_text(source)
+          print("Generator patched successfully")
+          PY
+
       - name: Generate language statistics
         env:
           PAT_1: ${{ github.token }}
