@@ -14,26 +14,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate language statistics
-        uses: h1s97x/gh-readme-card@main
+      - name: Checkout card generator
+        uses: actions/checkout@v4
         with:
-          card: langs
-          params: >-
-            username=oliveiramnando
-            &layout=compact
-            &langs_count=6
-            &size_weight=0
-            &count_weight=1
-            &card_width=700
-            &bg_color=0d1117
-            &title_color=b392f0
-            &text_color=c9d1d9
-            &hide_border=true
-            &custom_title=Languages%20by%20repo%20count
-          path: profile/langs.svg
+          repository: h1s97x/gh-readme-card
+          path: .card-generator
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        working-directory: .card-generator
+        run: npm ci --omit=dev --ignore-scripts
+
+      - name: Generate language statistics
+        env:
+          PAT_1: ${{ github.token }}
+          GH_CARD_CARD: langs
+          GH_CARD_PARAMS: "username=oliveiramnando&layout=compact&langs_count=6&size_weight=0&count_weight=1&card_width=700&bg_color=0d1117&title_color=b392f0&text_color=c9d1d9&hide_border=true&custom_title=Languages%20by%20repo%20count"
+          GH_CARD_PATH: profile/langs.svg
+        run: node .card-generator/src/cli.ts
 
       - name: Commit generated card
         run: |
@@ -43,6 +49,7 @@ jobs:
           git add profile/langs.svg
 
           if git diff --staged --quiet; then
+            echo "No changes to commit"
             exit 0
           fi
 
