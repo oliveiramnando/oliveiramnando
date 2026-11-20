@@ -23,6 +23,13 @@ Adding multi-user rooms and an event-loop server to Tango.
 - **Frontend:** React, Next.js
 - **Tools:** Docker, Linux, Git, GitHub Actions, AddressSanitizer/UBSan
 
+## Languages
+
+<p align="center">
+  <img src="./profile/langs.svg" alt="Languages by repository count" width="700" />
+</p>
+
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/folivei2/)
